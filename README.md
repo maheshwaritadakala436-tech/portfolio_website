@@ -42,4 +42,5 @@ Navigate to the home page for an introduction.
 
 Use the contact form to submit a message.
 
-After submission, the thank-you page will appear and redirect back to the
+After submission, the thank-you page will appear and redirect back to the homepage.
+
